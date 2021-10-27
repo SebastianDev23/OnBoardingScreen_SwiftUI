@@ -11,6 +11,8 @@
 		C93093A82729AF4000E3B754 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93093A72729AF4000E3B754 /* ContentView.swift */; };
 		C93093AA2729AF4200E3B754 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C93093A92729AF4200E3B754 /* Assets.xcassets */; };
 		C93093AD2729AF4200E3B754 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C93093AC2729AF4200E3B754 /* Preview Assets.xcassets */; };
+		C93093B42729AF5D00E3B754 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93093B32729AF5D00E3B754 /* Data.swift */; };
+		C93093B82729B07F00E3B754 /* CardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93093B72729B07F00E3B754 /* CardModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		C93093A72729AF4000E3B754 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C93093A92729AF4200E3B754 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C93093AC2729AF4200E3B754 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C93093B32729AF5D00E3B754 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		C93093B72729B07F00E3B754 /* CardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				C93093A52729AF4000E3B754 /* OnBoardingScreen_SwiftUIApp.swift */,
 				C93093A72729AF4000E3B754 /* ContentView.swift */,
+				C93093B72729B07F00E3B754 /* CardModel.swift */,
+				C93093B32729AF5D00E3B754 /* Data.swift */,
 				C93093A92729AF4200E3B754 /* Assets.xcassets */,
 				C93093AB2729AF4200E3B754 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C93093A82729AF4000E3B754 /* ContentView.swift in Sources */,
+				C93093B82729B07F00E3B754 /* CardModel.swift in Sources */,
+				C93093B42729AF5D00E3B754 /* Data.swift in Sources */,
 				C93093A62729AF4000E3B754 /* OnBoardingScreen_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

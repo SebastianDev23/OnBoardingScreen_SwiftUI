@@ -1,8 +1,5 @@
-//
-//  OnBoardingScreen_SwiftUIApp.swift
-//  OnBoardingScreen_SwiftUI
-//
-//  Created by Sebastian Klösel on 27.10.21.
+
+//  Created by Sebastian Kl
 //
 
 import SwiftUI
